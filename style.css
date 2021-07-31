@@ -1,12 +1,17 @@
 body{
     font-family: 'Gowun Dodum', sans-serif;
-font-family: 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
+    margin: 0;
 }
 h1{
     font-size: 50px;
 }
 .name-highlight{
     color: tomato;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
 .half-weidth{
     width: 40%;
@@ -16,4 +21,7 @@ h1{
 }
 .half-weidth img{
      width: 100%;
+}
+section{
+    height: 545px;
 }
