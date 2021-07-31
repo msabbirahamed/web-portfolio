@@ -1,0 +1,19 @@
+body{
+    font-family: 'Gowun Dodum', sans-serif;
+font-family: 'Inter', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: tomato;
+}
+.half-weidth{
+    width: 40%;
+    float: left;
+    margin-left:5%;
+
+}
+.half-weidth img{
+     width: 100%;
+}
