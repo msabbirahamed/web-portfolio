@@ -40,3 +40,39 @@ section{
     color: wheat;
     font-weight: 700;
 }
+.dream{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position:  right;
+
+}
+.single-exprince{
+    background-color: white;
+    box-shadow: 10px 10px 40px seagreen;
+    border-radius: 10px;
+    height: 60%;
+    padding: 10px;
+
+}
+.exprience{
+    
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position : left;
+}
+#full-hipen{
+
+    border-left: 5px solid;
+    border-image: linear-gradient(180deg, darkblue, salmon);
+    border-image-slice :  1;
+
+
+}
+#baby-web{
+    border-left: 5px solid;
+    border-image: linear-gradient(180deg, lightgreen, tomato);
+    border-image-slice :  1;
+}
+footer{
+    text-align: center;
+}
